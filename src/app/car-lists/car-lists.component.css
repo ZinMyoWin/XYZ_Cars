@@ -1,0 +1,32 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    width: 400px;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .text-muted {
+    font-size: 12px;
+  }
